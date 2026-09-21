@@ -1,6 +1,6 @@
 ## Hi!
 
-<img width="1050" height="250" src="https://github.com/LunaIsabel/LunaIsabel/blob/main/backgroundImage.png">
+<img width="1500" height="250" src="https://github.com/LunaIsabel/LunaIsabel/blob/main/backgroundImage.png">
 I'm a PhD Student at the University of Minnesota interested in addiction and therapeutic approaches for substance abuse disorders. I have experience with C++, Javascript, R, and Python. 
 
 
