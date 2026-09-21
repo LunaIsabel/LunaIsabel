@@ -1,6 +1,6 @@
 ## Hi!
 
-<img src="" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/LunaIsabel/LunaIsabel/blob/main/backgroundImage.png">
 I'm a PhD Student at the University of Minnesota interested in addiction and therapeutic approaches for substance abuse disorders. I have experience with C++, Javascript, R, and Python. 
 
 
